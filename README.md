@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LindaZhang2022
+- 👀 I’m interested in reading creative things and communicating with different person come from variety of  industries and postions such as Developers, Management, C-level, etc.
+- 🌱 I’m currently learning python. Because I want to tutor my daughter’s computer 
+- 💞️ I’m working in a recruitment agency, I’m help the company for recruiting talents across different function and level 
+- 📫 If you are open to new opportunity, please feel free to reach me out via lindazhang898@gmail.com or drop me a message via github
